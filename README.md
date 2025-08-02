@@ -1,28 +1,25 @@
-ASEAN vs Top 3 Countries – Olympic Analysis
-This data analytics project compares the Olympic performance of ASEAN countries against global leaders — the USA, Russia, and Germany. It explores trends in medal achievements, athlete physical attributes, and event participation to uncover performance gaps and surface strategic insights.
+# 🏅 ASEAN vs Top 3 Countries – Olympic Analysis
 
-📊 Project Objective
+This data analytics project compares the Olympic performance of **ASEAN countries** against global leaders — **USA**, **Russia**, and **Germany**. It explores trends in **medal achievements**, **athlete physical attributes**, and **event participation** to uncover performance gaps and surface strategic insights.
 
-To analyze and visualize how ASEAN countries perform in the Olympics relative to top-performing nations by evaluating:
+> ✅ *This project is part of my data analytics portfolio, demonstrating end-to-end analysis using Python and Power BI.*
 
-🥇 Medal distribution across years and countries
+---
 
-📏 Athlete physical attributes (height, weight, age)
+## 📊 Project Objective
 
-🏊 Event participation trends across disciplines
+To analyse and visualise how ASEAN countries perform in the Olympics relative to top-performing nations by evaluating:
 
-🛠 Tools & Technologies
+- 🥇 **Medal distribution** across time and nations  
+- 📏 **Athlete physical attributes** — height, weight, age  
+- 🏊 **Event participation trends** across disciplines
 
-Python – Data cleaning, wrangling, and transformation
+---
 
-Power BI – Interactive dashboards and data visualization
+## 🛠️ Tools & Technologies
 
-Dataset – Kaggle Olympic History Dataset (1896–2016)
-
-📌 Key Insights
-
-🔸 ASEAN countries show lower medal counts despite moderate participation levels.
-
-🔸 ASEAN athletes are generally smaller in size (height, weight) compared to athletes from the top 3 countries. This pattern is consistent across top-participation events like athletics and swimming.
-
-🔸 Lack of ASEAN participation in top sports (e.g., Ice Hockey) is likely due to geographical and climatic limitations. This presents opportunities to invest in infrastructure, such as indoor training facilities, to diversify competitive potential.
+| Tool        | Purpose                                      |
+|-------------|----------------------------------------------|
+| **Python**  | Data cleaning, wrangling, transformation     |
+| **Power BI**| Interactive dashboard & data visualisation   |
+| **Dataset** | Kaggle Olympic History Dataset (1896–2016)   |
